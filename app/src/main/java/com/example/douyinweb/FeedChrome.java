@@ -1,3 +1,6 @@
+/* SPDX-License-Identifier: MIT
+ * Copyright (c) 2026 waitlex
+ */
 package com.example.douyinweb;
 
 import android.app.Activity;
